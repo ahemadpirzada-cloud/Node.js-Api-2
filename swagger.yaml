@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: poc-backstage-api
+  name: nodejs-backstage-swagger-api-poc
   description: The todos API
   tags:
     - todos
