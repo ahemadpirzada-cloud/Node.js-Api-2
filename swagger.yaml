@@ -51,7 +51,7 @@ spec:
                   $ref: '#/components/schemas/Todos'
           responses:
             '200':
-              description: Success
+      '/api/todos/{id}':
         put:
           tags:
             - todos
